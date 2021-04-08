@@ -1,7 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\02_RestWithASPNETCore - Calculator",
+    "\\02_RestWithASPNETCore - Calculator\\01_RestWithASPNETCore"
   ],
-  "SelectedNode": "\\.gitignore.txt",
+  "SelectedNode": "\\02_RestWithASPNETCore - Calculator\\01_RestWithASPNETCore",
   "PreviewInSolutionExplorer": false
 }

@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Geraldo\\Desktop\\API Rest .net core\\AspNetCore5-study\\01_RestWithASPNETCore\\01_RestWithASPNETCore\\01_RestWithASPNETCore.csproj",
+      "projectUniqueName": "C:\\Users\\Geraldo\\Desktop\\API Rest .net core\\AspNetCore5-study\\02_RestWithASPNETCore - Calculator\\01_RestWithASPNETCore\\01_RestWithASPNETCore.csproj",
       "projectName": "01_RestWithASPNETCore",
-      "projectPath": "C:\\Users\\Geraldo\\Desktop\\API Rest .net core\\AspNetCore5-study\\01_RestWithASPNETCore\\01_RestWithASPNETCore\\01_RestWithASPNETCore.csproj",
+      "projectPath": "C:\\Users\\Geraldo\\Desktop\\API Rest .net core\\AspNetCore5-study\\02_RestWithASPNETCore - Calculator\\01_RestWithASPNETCore\\01_RestWithASPNETCore.csproj",
       "packagesPath": "C:\\Users\\Geraldo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Geraldo\\Desktop\\API Rest .net core\\AspNetCore5-study\\01_RestWithASPNETCore\\01_RestWithASPNETCore\\obj\\",
+      "outputPath": "C:\\Users\\Geraldo\\Desktop\\API Rest .net core\\AspNetCore5-study\\02_RestWithASPNETCore - Calculator\\01_RestWithASPNETCore\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
