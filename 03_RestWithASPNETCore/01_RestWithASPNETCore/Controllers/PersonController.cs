@@ -1,4 +1,5 @@
-﻿using Microsoft.AspNetCore.Mvc;
+﻿using _01_RestWithASPNETCore.Services;
+using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Logging;
 using System;
 using System.Collections.Generic;
@@ -9,20 +10,28 @@ namespace _01_RestWithASPNETCore.Controllers
 {
     [ApiController]
     [Route("[controller]")]
-    public class CalculatorController : ControllerBase
+    public class PersonController : ControllerBase
     {
 
-        private readonly ILogger<CalculatorController> _logger;
+        private readonly ILogger<PersonController> _logger;
+        private IPersonService _personService;
 
-        public CalculatorController(ILogger<CalculatorController> logger)
+        public PersonController(ILogger<PersonController> logger, IPersonService personService)
         {
             _logger = logger;
+            _personService = personService;
         }
 
-        [HttpGet("sum/{firstNumber}/{sencodNumber}")]
-        public IActionResult Get(string firstNumber, string sencodNumber)
+        [HttpGet()]
+        public IActionResult Get()
         {
-            return BadRequest("Invalid Input");
+            return Ok(_personService.FindAll());
+        }
+        
+        [HttpGet()]
+        public IActionResult Get(long id)
+        {
+            return Ok(_personService.FindById(id));
         }
        
     }
