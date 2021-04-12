@@ -43,3 +43,26 @@ C:\Users\Geraldo\Desktop\API Rest .net core\AspNetCore5-study\02_RestWithASPNETC
 C:\Users\Geraldo\Desktop\API Rest .net core\AspNetCore5-study\02_RestWithASPNETCore - Calculator\01_RestWithASPNETCore\obj\Debug\net5.0\ref\01_RestWithASPNETCore.dll
 C:\Users\Geraldo\Desktop\API Rest .net core\AspNetCore5-study\02_RestWithASPNETCore - Calculator\01_RestWithASPNETCore\obj\Debug\net5.0\01_RestWithASPNETCore.pdb
 C:\Users\Geraldo\Desktop\API Rest .net core\AspNetCore5-study\02_RestWithASPNETCore - Calculator\01_RestWithASPNETCore\obj\Debug\net5.0\01_RestWithASPNETCore.genruntimeconfig.cache
+C:\Users\Geraldo\Desktop\API Rest .net core\AspNetCore5-study\03_RestWithASPNETCore\01_RestWithASPNETCore\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Geraldo\Desktop\API Rest .net core\AspNetCore5-study\03_RestWithASPNETCore\01_RestWithASPNETCore\bin\Debug\net5.0\appsettings.json
+C:\Users\Geraldo\Desktop\API Rest .net core\AspNetCore5-study\03_RestWithASPNETCore\01_RestWithASPNETCore\bin\Debug\net5.0\01_RestWithASPNETCore.exe
+C:\Users\Geraldo\Desktop\API Rest .net core\AspNetCore5-study\03_RestWithASPNETCore\01_RestWithASPNETCore\bin\Debug\net5.0\01_RestWithASPNETCore.deps.json
+C:\Users\Geraldo\Desktop\API Rest .net core\AspNetCore5-study\03_RestWithASPNETCore\01_RestWithASPNETCore\bin\Debug\net5.0\01_RestWithASPNETCore.runtimeconfig.json
+C:\Users\Geraldo\Desktop\API Rest .net core\AspNetCore5-study\03_RestWithASPNETCore\01_RestWithASPNETCore\bin\Debug\net5.0\01_RestWithASPNETCore.runtimeconfig.dev.json
+C:\Users\Geraldo\Desktop\API Rest .net core\AspNetCore5-study\03_RestWithASPNETCore\01_RestWithASPNETCore\bin\Debug\net5.0\01_RestWithASPNETCore.dll
+C:\Users\Geraldo\Desktop\API Rest .net core\AspNetCore5-study\03_RestWithASPNETCore\01_RestWithASPNETCore\bin\Debug\net5.0\ref\01_RestWithASPNETCore.dll
+C:\Users\Geraldo\Desktop\API Rest .net core\AspNetCore5-study\03_RestWithASPNETCore\01_RestWithASPNETCore\bin\Debug\net5.0\01_RestWithASPNETCore.pdb
+C:\Users\Geraldo\Desktop\API Rest .net core\AspNetCore5-study\03_RestWithASPNETCore\01_RestWithASPNETCore\obj\Debug\net5.0\01_RestWithASPNETCore.csprojAssemblyReference.cache
+C:\Users\Geraldo\Desktop\API Rest .net core\AspNetCore5-study\03_RestWithASPNETCore\01_RestWithASPNETCore\obj\Debug\net5.0\01_RestWithASPNETCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Geraldo\Desktop\API Rest .net core\AspNetCore5-study\03_RestWithASPNETCore\01_RestWithASPNETCore\obj\Debug\net5.0\01_RestWithASPNETCore.AssemblyInfoInputs.cache
+C:\Users\Geraldo\Desktop\API Rest .net core\AspNetCore5-study\03_RestWithASPNETCore\01_RestWithASPNETCore\obj\Debug\net5.0\01_RestWithASPNETCore.AssemblyInfo.cs
+C:\Users\Geraldo\Desktop\API Rest .net core\AspNetCore5-study\03_RestWithASPNETCore\01_RestWithASPNETCore\obj\Debug\net5.0\01_RestWithASPNETCore.csproj.CoreCompileInputs.cache
+C:\Users\Geraldo\Desktop\API Rest .net core\AspNetCore5-study\03_RestWithASPNETCore\01_RestWithASPNETCore\obj\Debug\net5.0\01_RestWithASPNETCore.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Geraldo\Desktop\API Rest .net core\AspNetCore5-study\03_RestWithASPNETCore\01_RestWithASPNETCore\obj\Debug\net5.0\staticwebassets\01_RestWithASPNETCore.StaticWebAssets.Manifest.cache
+C:\Users\Geraldo\Desktop\API Rest .net core\AspNetCore5-study\03_RestWithASPNETCore\01_RestWithASPNETCore\obj\Debug\net5.0\staticwebassets\01_RestWithASPNETCore.StaticWebAssets.xml
+C:\Users\Geraldo\Desktop\API Rest .net core\AspNetCore5-study\03_RestWithASPNETCore\01_RestWithASPNETCore\obj\Debug\net5.0\scopedcss\bundle\01_RestWithASPNETCore.styles.css
+C:\Users\Geraldo\Desktop\API Rest .net core\AspNetCore5-study\03_RestWithASPNETCore\01_RestWithASPNETCore\obj\Debug\net5.0\01_RestWithASPNETCore.RazorTargetAssemblyInfo.cache
+C:\Users\Geraldo\Desktop\API Rest .net core\AspNetCore5-study\03_RestWithASPNETCore\01_RestWithASPNETCore\obj\Debug\net5.0\01_RestWithASPNETCore.dll
+C:\Users\Geraldo\Desktop\API Rest .net core\AspNetCore5-study\03_RestWithASPNETCore\01_RestWithASPNETCore\obj\Debug\net5.0\ref\01_RestWithASPNETCore.dll
+C:\Users\Geraldo\Desktop\API Rest .net core\AspNetCore5-study\03_RestWithASPNETCore\01_RestWithASPNETCore\obj\Debug\net5.0\01_RestWithASPNETCore.pdb
+C:\Users\Geraldo\Desktop\API Rest .net core\AspNetCore5-study\03_RestWithASPNETCore\01_RestWithASPNETCore\obj\Debug\net5.0\01_RestWithASPNETCore.genruntimeconfig.cache
